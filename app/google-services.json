@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "748029536418",
+    "project_id": "text-field-input-ipt",
+    "storage_bucket": "text-field-input-ipt.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748029536418:android:170c7180dfcb0b9a8d8ffb",
+        "android_client_info": {
+          "package_name": "com.example.textfieldinputipt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqHTfq6LBbcWPyjnfLIpsAd_zmRoVGkmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
